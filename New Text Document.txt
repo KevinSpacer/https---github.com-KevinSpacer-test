@@ -6,3 +6,4 @@ change this file from github
 I added new change for this file
 add new change for this file
 this is file changed from local
+i added new line for this file
