@@ -2,8 +2,4 @@ this is testing file
 add a new line
 change for second time
 this change from github
-change this file from github
-I added new change for this file
-add new change for this file
-this is file changed from local
-i added new line for this file
+
